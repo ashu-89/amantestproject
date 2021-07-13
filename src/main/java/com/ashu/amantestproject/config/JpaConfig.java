@@ -1,4 +1,4 @@
-package com.ashu.amantestproject;
+package com.ashu.amantestproject.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
